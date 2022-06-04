@@ -14,7 +14,7 @@
     <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Nick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Nick-Python" height="30" width="40" src="![nic-gif](https://user-images.githubusercontent.com/95726409/172013130-131df319-f24a-428e-9269-a93e0d42c784.gif)">
+    <img align="center" alt="Nick-Pic" height="150" width="150" src="![nic-gif](https://user-images.githubusercontent.com/95726409/172013130-131df319-f24a-428e-9269-a93e0d42c784.gif)">
     
 </div>
   
