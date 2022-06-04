@@ -16,7 +16,8 @@
     <img align="center" alt="Nick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="right" alt="Nick-Pic" height="150" width="150" src="https://user-images.githubusercontent.com/95726409/172013130-131df319-f24a-428e-9269-a93e0d42c784.gif" style="visibility: visible;"/>
     
-</div>
+</div>![nic-gif](https://user-images.githubusercontent.com/95726409/172014167-58d0da95-7c0e-4ceb-b776-3b7aec496963.gif)
+
   
   ##
   
