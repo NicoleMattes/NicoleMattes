@@ -14,9 +14,10 @@
     <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Nick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Nick-Pic" height="150" width="150" src="https://user-images.githubusercontent.com/95726409/172013130-131df319-f24a-428e-9269-a93e0d42c784.gif" style="visibility: visible;"/>
-    
-</div>![nic-gif](https://user-images.githubusercontent.com/95726409/172014167-58d0da95-7c0e-4ceb-b776-3b7aec496963.gif)
+    <img align="right" alt="Nick-Pic" height="150" width="150" src="https://user-images.githubusercontent.com/95726409/172015136-dd6df690-08c5-47f2-8412-e52120bd1505.png">
+![nic-img](https://user-images.githubusercontent.com/95726409/172015136-dd6df690-08c5-47f2-8412-e52120bd1505.png)
+
+</div>
 
   
   ##
