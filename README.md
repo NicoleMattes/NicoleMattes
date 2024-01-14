@@ -1,7 +1,11 @@
 ### Oii! Eu sou a Nicole Mattes 
 
-- 📷 Hoje sou estudade de Alise e Desenvolvimento de Sistemas na Universidade Mackenzie
-- 😄 Pronouns: Ela/Dela
+- Atualmente estou no ultimo semestre do curso Alise e Desenvolvimento de Sistemas na Universidade Mackenzie;
+- Fui estagiaria na empresa Ford Motor Company durante 1 ano e 3 meses;
+- Tenho esperiencia com desenvolvimento web com Angular;
+- Trabalhei no desenvolvimento do produto "Minhas experiencias Ford" desenvovlendo principalmente o back end com Java Spring Boot;
+- Durante o meu estagio apresentei Workshops de Java Spring Boot;
+- Pronouns: Ela/Dela.
 
 <div align="center">
   <a href="https://github.com/NicoleMattes">
@@ -19,6 +23,9 @@
     <img align="center" alt="Nick-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" alt="Nick-Java" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Nick-.net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+    <img align="center" alt="Nick-mongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="Nick-.net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Nick-.net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     <img align="right" alt="Nick-Pic" height="150" width="150" src="https://user-images.githubusercontent.com/95726409/172015136-dd6df690-08c5-47f2-8412-e52120bd1505.png">
     
 </div>
