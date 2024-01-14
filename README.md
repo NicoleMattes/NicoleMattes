@@ -6,6 +6,7 @@
 - Trabalhei no desenvolvimento do produto "Minhas experiências Ford" desenvovlendo principalmente o back end com Java e Spring Boot;
 - Durante o meu estágio apresentei Workshops de Java e Spring Boot, para a capacitação de novos estagiários;
 
+
 <div align="center">
   <a href="https://github.com/NicoleMattes">
   <img height="180em" width="49%"  src="https://github-readme-stats.vercel.app/api?username=NicoleMattes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
