@@ -3,7 +3,7 @@
 - Atualmente estou no ultimo semestre do curso Análise e Desenvolvimento de Sistemas na Universidade Mackenzie;
 - Fui estagiária na empresa Ford Motor Company durante 1 ano e 3 meses;
 - Tenho experiência em desenvolvimento web com Angular, HTML, CSS, JS nativo;
-- Trabalhei no desenvolvimento do produto "Minhas experiências Ford" desenvovlendo principalmente o back end com Java e Spring Boot;
+- Trabalhei no desenvolvimento do produto "Minhas experiências Ford" desenvolvendo principalmente o back end com Java e Spring Boot;
 - Durante o meu estágio apresentei Workshops de Java e Spring Boot, para a capacitação de novos estagiários;
 
 
