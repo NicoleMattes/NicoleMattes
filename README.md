@@ -1,11 +1,10 @@
-### Oii! Eu sou a Nicole Mattes 
+### Oii! Eu sou a Nicole Mattes
 
-- Atualmente estou no ultimo semestre do curso Alise e Desenvolvimento de Sistemas na Universidade Mackenzie;
-- Fui estagiaria na empresa Ford Motor Company durante 1 ano e 3 meses;
-- Tenho esperiencia com desenvolvimento web com Angular;
-- Trabalhei no desenvolvimento do produto "Minhas experiencias Ford" desenvovlendo principalmente o back end com Java Spring Boot;
-- Durante o meu estagio apresentei Workshops de Java Spring Boot;
-- Pronouns: Ela/Dela.
+- Atualmente estou no ultimo semestre do curso Análise e Desenvolvimento de Sistemas na Universidade Mackenzie;
+- Fui estagiária na empresa Ford Motor Company durante 1 ano e 3 meses;
+- Tenho experiência em desenvolvimento web com Angular, HTML, CSS, JS nativo;
+- Trabalhei no desenvolvimento do produto "Minhas experiências Ford" desenvovlendo principalmente o back end com Java e Spring Boot;
+- Durante o meu estágio apresentei Workshops de Java e Spring Boot, para a capacitação de novos estagiários;
 
 <div align="center">
   <a href="https://github.com/NicoleMattes">
