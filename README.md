@@ -33,30 +33,30 @@
   <div style="display: inline_block"><br>
       <img align="center" width="100" alt="Nick-Java-script"  src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
       <img align="center" width="100" alt="Nick-type-script"  src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-      <img align="center" width="78" alt="Nick-html"  src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-      <img align="center" width="70" alt="Nick-css"  src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+      <img align="center" width="74" alt="Nick-html"  src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+      <img align="center" width="65" alt="Nick-css"  src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 
   </div>
 
   ### :file_folder: Banco de Dados
 
   <div style="display: inline_block"><br>
-    <img align="center" width="70" alt="Nick-mysql"  src= "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" width="90" alt="Nick-mongodb"  src= "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img align="center" width="63" alt="Nick-mysql"  src= "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" width="82" alt="Nick-mongodb"  src= "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   </div>
 
   ### :computer: Tecnologias Cloud
 
   <div style="display: inline_block"><br>
-    <img align="center" width="100" alt="Nick-gcp"  src= "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+    <img align="center" width="105" alt="Nick-gcp"  src= "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   </div>
 
   ### :cloud: Desenvolvimento de Aplicações
 
   <div style="display: inline_block"><br>
     <img align="center" width="75" alt="Nick-python"  src= "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img align="center" width="50" alt="Nick-c"  src= "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-    <img align="center" width="60" alt="Nick-net"  src= "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+    <img align="center" width="48" alt="Nick-c"  src= "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+    <img align="center" width="58" alt="Nick-net"  src= "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 
   </div>
 
