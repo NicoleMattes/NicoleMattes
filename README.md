@@ -23,7 +23,8 @@
   <div style="display: inline_block"><br>
       <img align="center" alt="Nick-Java"  src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
       <img align="center" alt="Nick-Spring"  src= "https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
-      <img align="center" alt="Nick-Spring"  src= "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+      <img align="center" alt="Nick-kotlin"  src= "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+      <img align="center" alt="Nick-Angular"  src= "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
     
   </div>
 
