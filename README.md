@@ -7,14 +7,14 @@
 - Trabalhei no desenvolvimento do produto "Minhas experiências Ford" desenvolvendo principalmente o back end com Java e Spring Boot;
 - Durante o meu estágio apresentei Workshops de Java e Spring Boot, para a capacitação de novos estagiários;
   
-  
+ 
 
 <div style="display: inline_block"><br>
 
   <div align="center">
     <a href="https://github.com/NicoleMattes">
-    <img height="180em" width="49%"  src="https://github-readme-stats.vercel.app/api?username=NicoleMattes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleMattes&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" width="49%"  src="https://github-readme-stats-nicole-mattes-afonsos-projects.vercel.app/api?username=NicoleMattes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" img width="49%" src="https://github-readme-stats-nicole-mattes-afonsos-projects.vercel.app/api/top-langs/?username=NicoleMattes&layout=compact&langs_count=7&theme=radical"/>
   </div>
 
   ## Skils
